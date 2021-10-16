@@ -1,0 +1,14 @@
+MODULE 1
+splash screen 
+login page( email password,other option GOOGLE FACEBOOK)
+profile update
+one to one chat
+group chat
+read recipt
+emoji stickers images gif.
+voice and video call
+
+MODULE 2
+WEB APPLICATION
+group video call  
+voice assistant
